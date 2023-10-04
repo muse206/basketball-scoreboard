@@ -1,4 +1,4 @@
 # basketball-scoreboard
-The basketball scoreboard is my second project of Scrimba Front-End course.
+This is the second project I've worked on in my Scrimba Front End course. It's a digital scoreboard for basketball. 
 
 
